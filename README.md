@@ -1,6 +1,8 @@
 # data-engineering-with-python
 Curso 01 de Data Engineering
 
+Para el proceos ETL, se utilizó Pyhton 3.8; Mysql, Postgres, Pandas, SQLAlchemy.
+
 ## 01.- ETL - Python
 Se realizarán las fases de extracción, transformación y carga de los procesos de ETL, conla finalidad de poder contar con data que responsa a los siguientes KPIS:
 - Ventas completadas por cliente.
