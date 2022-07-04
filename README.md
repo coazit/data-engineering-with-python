@@ -15,7 +15,10 @@ Se aplicaron reglas de negocio, asi como también se aplicó limpieza de datos n
 
 ## Pasos:
 
-1.- Se procesaron los archivos csv, para ello se dejaron 4 tablas en Mysql.
-2.- Se procesaron los archivos csv.
-3.- Se hizo cruce de las tablas order_items, orders y customer; para disponibilizar en una base de datos de postgres.
+- Se procesaron los archivos csv y se dejaron 4 tablas en Mysql.
 
+- Se procesaron los archivos csv.
+
+- Se aplicó la limpieza y transformación de los datos.
+
+- Se hizo cruce de las tablas order_items, orders y customer; para disponibilizar en una base de datos de postgres.
